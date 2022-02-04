@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **shbkukuk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IjKa6p4118ISoH8hDNs4kr3GxHy5hvkt/view?usp=sharing](https://drive.google.com/file/d/1IjKa6p4118ISoH8hDNs4kr3GxHy5hvkt/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1IjKa6p4118ISoH8hDNs4kr3GxHy5hvkt/view?usp=sharing)
 
 - ⚡ Fun fact **I like Riding Mountain Bike, Camping, Play Volleyball(I was Volleyball player for 4 years)**
 
