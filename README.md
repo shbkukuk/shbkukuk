@@ -20,6 +20,13 @@
 
 - ⚡ Fun fact **I like Riding Mountain Bike, Camping, Play Volleyball(I was Volleyball player for 4 years)**
 
+<h3 align="left">Publications:</h3>
+
+- **[Comprehensive Analysis of Forest Fire Detection using Deep Learning Models and Conventional Machine Learning Algorithms](https://dergipark.org.tr/tr/pub/ijcesen/issue/61167/950045)**
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sbk061" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sbk061" height="30" width="40" /></a>
