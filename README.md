@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/sbk061" target="blank"><img src="https://img.shields.io/twitter/follow/sbk061?logo=twitter&style=for-the-badge" alt="sbk061" /></a> </p>
 
-- 🌱 I’m currently learning **Kodluyoruz & Carbon Consulting Data science Bootcamp**
+- 🌱 I’m currently working **Jr. AI engineer at Virasoft**
 
 - 💬 Ask me about **Python, OpenCV, Tensorflow, Keras, Numpy**
 
