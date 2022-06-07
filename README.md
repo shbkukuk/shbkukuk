@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Süha Berk</h1>
-<h3 align="center">I'm Mechatronic Engineer Who learn Artificial Intelligence, Machine Learning and Deep Learning tools.</h3>
+<h3 align="center">I'm Jr. Artificial Intelligence at Virasoft Corporation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shbkukuk&label=Profile%20views&color=0e75b6&style=flat" alt="shbkukuk" /> </p>
 
