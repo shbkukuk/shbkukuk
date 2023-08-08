@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently working as a **Jr. AI Engineer at Virasoft** and pursuing a **Computer Science MSc degree at Gebze Technical University**
 
-- 💬 Ask me about **Python, OpenCV, Tensorflow, Keras, Numpy**
+- 💬 Ask me about **Python, OpenCV, Tensorflow, Keras, Numpy, Pytorch**
 
 - 📫 How to reach me **shbkukuk@gmail.com**
 
