@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Süha Berk</h1>
-<h3 align="center">I'm Jr. Artificial Intelligence at Virasoft Corporation.</h3>
+
 
 
 - 🌱 I'm currently working as a **Jr. AI Engineer at Virasoft** and pursuing a **Computer Science MSc degree at Gebze Technical University**
